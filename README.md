@@ -22,3 +22,6 @@ This project is a submission for the **Manifest Frontend Intern Code Challenge**
 
 ```bash
 npm install
+npm run dev       # http://localhost:5173
+npm run test      # run unit tests
+npm run storybook # http://localhost:6006
