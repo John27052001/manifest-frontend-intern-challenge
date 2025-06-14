@@ -16,7 +16,7 @@ This project is a submission for the **Manifest Frontend Intern Code Challenge**
 
 ---
 
-## 🧪 How to Run the Project
+##  How to Run the Project
 
 ### 1. Install dependencies
 
